@@ -1,2 +1,2 @@
 HTML+CSS
-Автор: Alexander
+Автор: AL

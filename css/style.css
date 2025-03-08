@@ -1,0 +1,215 @@
+
+body {
+    color: #000;
+    font-family: 'lato';
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    
+
+}
+
+.header-title {
+    color: #005FA3;
+    font-family: 'merriweather';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 50px;
+    
+}
+
+.header-contact-text {
+    color: #000;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+}
+
+.header-contact-link {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.header-nav-link {
+    text-decoration: none;
+    color: #222; 
+    text-transform: uppercase;
+}
+
+.desc {
+    background-color: #191E22;
+    background-image: url(../img/first-screen-bkg.jpg);
+}
+
+.desc-title,
+.desc-link {
+    color: #FFF;
+    
+    font-family: 'merriweather';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 66px;
+
+}
+
+.desc-link {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 34px;
+    text-align: center;
+    background: #005FA3;
+
+}
+
+.service {
+    background: #EBEBEB;
+}
+
+.section-title {
+    color: #BDBDBD;
+    font-weight: 900;
+    font-size: 24px; 
+    line-height: 33px;
+}
+
+.section-sub-title {
+    color: #333;
+    font-family: 'Merriweather';
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.section-sub-title-blue {
+    color: #005FA3
+}
+
+
+.service-item-title {
+    color: #FFF; 
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.service-item-link {
+    background-image: url(../img/services.jpg);
+    text-decoration: none;
+}
+
+.button {
+    color: #FFF;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: inherit;
+    background-color: #005FA3;
+    border: none;
+}
+
+.review-item {
+    background-color: #EBEBEB;
+}
+
+.review-item-text {
+    color: #000;
+}
+
+.review-item-author {
+    color: #000;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+
+.review-item-position {
+    color: #4F4F4F;
+
+}
+
+.about-item {
+    background: #ebebeb;
+}
+
+.about-list-number {
+    color:#000;
+    font-weight: 900;
+    font-size: 55px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.about-list-text {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000;
+}
+
+.about-list-link {
+
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #005FA3;
+}
+
+.strength-text {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #000;
+}
+
+footer {
+    color: #FFF;
+    font-family: 'lato'
+}
+
+.footer-contact {
+    background-color: #191E22;
+    background-image: url(../img/first-screen-bkg.jpg);
+
+}
+
+
+.footer-contact-title {
+    font-family: 'merriweather';
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 70px;
+    
+}
+
+.footer-contact-text {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+
+.footer-contact-contacts {
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 29px;
+    
+}
+
+.footer-contact-link {
+    text-decoration: none;
+    color: #FFF;
+    
+}
+
+.nameplate {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000;
+}
+
